@@ -1,6 +1,18 @@
 .active-link{
     color: rgba(54, 42, 42, 0.733);
-    border-bottom: 1px solid red;
+    border-bottom: double 4px transparent;
+    background-image: linear-gradient(rgb(9, 202, 192),white), linear-gradient(to right, rgb(225, 156, 156), rgb(178, 5, 158));
+    background-clip: padding-box, border-box;
+    background-origin: border-box;
+    padding: 9px 10px;
+    border-radius: 6px;
+    transition: .3s
+}
+@media screen and (min-width: 600px){
+	nav li{
+       
+            margin: 9px -7px;
+    }
 }
 .link{
     color:black
