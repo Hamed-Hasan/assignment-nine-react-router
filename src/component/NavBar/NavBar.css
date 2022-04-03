@@ -1,0 +1,11 @@
+.active-link{
+    color: rgba(54, 42, 42, 0.733);
+    border-bottom: 1px solid red;
+}
+.link{
+    color:black
+}
+.nav-list li a{
+    font-size: 20px;
+    
+}
