@@ -11,7 +11,7 @@ const navigate = useNavigate()
           <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
             <div className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
               <p className="text-4xl lg:text-8xl text-sky-300">Don't Miss Amazing  </p>
-              <p>Shopping Deals</p>
+              <p className='text-xl text-stone-300'>Shopping Deals</p>
             </div>
             <p className="mb-8 leading-relaxed text-white text-xl">We're continually pushing to reduce our footprint by choosing recycled or natural fibers and non-toxic dye proceeding</p>
             <div className="flex justify-center">
