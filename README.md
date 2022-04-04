@@ -1,11 +1,11 @@
 # React Router Shop
 
 * This project was TailWind with [live website](https://react-router-shop.netlify.app/).
-* [This site have been makes by react router]
-* [I have been using This site: css framework tailwind & flowbite]
-* [I have been using This site: recharts]
-* [I have been creating This site: more meaningful components & pages: like Home/Reviews/Dashboard/Blogs/About/404 pages etc...]
-* [I did my best to create this site as much as I could. I've been to Main Mark Bonus Mark Optional Mark. I've been trying to do everything I can.]
+* This site have been makes by react router
+* I have been using This site: css framework tailwind & flowbite etc...
+* I have been using This site: recharts
+* I have been creating This site: more meaningful components & pages: like Home/Reviews/Dashboard/Blogs/About/404 pages etc...
+* I did my best to create this site as much as I could. I've been to Main Mark Bonus Mark Optional Mark. I've been trying to do everything I can.]
 ## Available Scripts
 
 In the project directory, you can run:
