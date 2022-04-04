@@ -6,7 +6,6 @@ const CustomersReviews = () => {
     const [products, setProducts] = useProducts();
     const sliceProducts = products;
     const result = sliceProducts.slice(0,3)
-    console.log(result)
     return (
         <div>
             <h1 className='text-center text-5xl font-bold py-10'>Customers Reviews  ({result.length})</h1>
