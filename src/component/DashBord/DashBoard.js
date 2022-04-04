@@ -15,24 +15,24 @@ const DashBoard = () => {
     </div>
     <div className="flex flex-wrap -m-4">
       <div className="p-4 lg:w-1/2">
-      <h2 class="title-font font-medium text-lg text-gray-900">ComposedChart</h2>
+      <h2 className="title-font font-medium text-lg text-gray-900">ComposedChart</h2>
          
          
     <FirstChart/>
 
       </div>
       <div className="p-4 lg:w-1/2">
-      <h2 class="title-font font-medium text-lg text-gray-900">PieChart</h2>
+      <h2 className="title-font font-medium text-lg text-gray-900">PieChart</h2>
    <SecondChart/>
 
       </div>
       <div className="p-4 lg:w-1/2">
-      <h2 class="title-font font-medium text-lg text-gray-900">LineChart</h2>
+      <h2 className="title-font font-medium text-lg text-gray-900">LineChart</h2>
       <ThirdChart/>
 
       </div>
       <div className="p-4 lg:w-1/2">
-      <h2 class="title-font font-medium text-lg text-gray-900">BarChart</h2>
+      <h2 className="title-font font-medium text-lg text-gray-900">BarChart</h2>
       <FourthChart/>
 
       </div>
