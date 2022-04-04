@@ -6,7 +6,7 @@ const Blogs = () => {
         <div class="container px-5 py-24 mx-auto">
           <div class="flex flex-col text-center w-full mb-20">
             <h2 class="text-xs text-indigo-500 tracking-widest font-medium title-font mb-1">details are described</h2>
-            <h1 class="sm:text-3xl text-2xl font-medium title-font text-gray-900 text-white">Context API / Semantic Tag / Inline Inline-Block</h1>
+            <h1 class="sm:text-3xl text-2xl font-medium title-font  text-white">Context API / Semantic Tag / Inline Inline-Block</h1>
           </div>
           <div class="flex flex-wrap -m-4">
             <div class="p-4 md:w-1/3">
