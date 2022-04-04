@@ -5,9 +5,10 @@
     "description": "That beaten up Walkman buried in your basement might be someone's hot new accessory. The retro tech market is alive and kicking.\nIn May, Apple refreshed the iPod touch for the first time in four years. Vinyl record sales clocked in at 400 million on average over the past four years, according to data from data tracker Statista. DVD player sales are trending downward, but they still consistently hit four million units sold every holiday quarter, even as recently as 2018.\nOther gadgets that have stayed the course: camcorders, radios, clock radios, desk phones, and DVRs. Millions of these are still in use in US households in 2017, according to Statista.\n\nWhat drives people to continue purchasing vinyl records, instant film cameras, and iPods, long after new products have made those objects irrelevant?\n\nOlder gadgets have a lot of staying power ",
     "name": "The Shoeroom",
     "imageName": "iPod",
-    "img": "../src/assest/image/shoes1.png",
+    "img": "https://rukminim1.flixcart.com/image/800/960/kfk0e4w0-0/shoe/6/m/m/brd-343-abisto-black-original-imafvzgynd8aybhj.jpeg?q=50",
     "avatar": "https://images.pexels.com/photos/14661/pexels-photo-14661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "avName":"Kianna Powell"
+    "avName":"Kianna Powell",
+    "price":392
   },
   {
     "id": "60d6e01966b62508b45ee14c",
@@ -15,9 +16,10 @@
     "description": "In 1995, Apple debuted its game console in Japan, followed by a wider release in the US in 1996. Called Pippin, the game console was the result of a collaboration between Apple and Japanese company Bandai. Apple built the internals, while Bandai handled the exteriors including the casing, controls, and packaging.\n\nBased on Macintosh architecture, Pippin was designed to be a multimedia game console that could also connect to the internet, something that made Pippin a fascinating device. Unfortunately, the console’s high price tag of $599 and poor selection of games made Pippin obsolete soon. Pippin remains the only game console Apple has ever made.\n",
     "name": "Classy Shoes",
     "imageName": "Apple Pippin",
-    "img": "../src/assest/image/shoes2.png",
+    "img": "https://rukminim1.flixcart.com/image/800/960/kq6yefk0/shoe/p/s/r/10-fashion-star-black-165-beige-10-hotstyle-beige-black-original-imag4992vm7yfvfq.jpeg?q=50",
     "avatar": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "avName":"Anabelle Vaughn"
+    "avName":"Anabelle Vaughn",
+    "price":842
   },
   {
     "id": "60d728cf66b62508b45ee14d",
@@ -25,9 +27,10 @@
     "description": "A year before Apple debuted the iPhone in 2007, the company introduced the iPod Hi-Fi. Although many companies tried to make iPod-powered speakers before, they didn’t offer home stereo quality. Apple in a way reimagined the home stereo market with the iPod Hi-Fi. The device was huge, a single white box with a 30-pin dock connector to dock your iPod. The iPod Hi-Fi was controlled using Apple’s universal IR remote.\n\nWhile it was a great speaker with excellent audio quality, the iPod Hi-Fi only worked with third-generation iPods or those that came after. Many also found the $349 price hard to swallow. The iPod Hi-Fi was discontinued in 2007 after being on the market for 20 months.\n",
     "name": "Shoegazing",
     "imageName": "iPod Hi-Fi",
-    "img": "../src/assest/image/shoes3.png",
+    "img": "https://rukminim1.flixcart.com/image/800/960/kxtaxzk0/kids-shoe/x/2/a/5-black-kids7-nexxon-original-imaga7fyacg23xdp.jpeg?q=50",
     "avatar": "https://images.pexels.com/photos/59554/pexels-photo-59554.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "avName": "Ross Bentley"
+    "avName": "Ross Bentley",
+    "price":204
   },
   {
     "id": "60d7290866b62508b45ee14e",
@@ -35,9 +38,10 @@
     "description": "The Newton MessagePad was Apple’s bold attempt at creating a personal digital assistant (PDA) way back in 1993. It might not have been a huge success, but it did pave the way for mobile devices. The Newton’s biggest feature was handwriting recognition which allowed users to write on the device’s screen with a stylus and the Newton would translate the handwriting into digital text. It also had an infrared networking capability that lets you beam emails and messages from it wirelessly.\n\nOn paper, Newton seemed to be a perfect device, but the execution was flawed. The handwriting recognition was bad and the data transfer was slow. Apple released seven models in over six years before the Newton line was killed by Jobs upon returning to the company in 1997.\n",
     "name": "New Kicks",
     "imageName": "Newton MessagePad",
-    "img": "../src/assest/image/shoes4.png",
+    "img": "https://rukminim1.flixcart.com/image/800/960/kvlaaa80/shoe/h/f/h/6-king-6-calcados-blue-original-imag8ghmfydgfgpg.jpeg?q=50",
     "avatar":"https://images.pexels.com/photos/11392/pexels-photo-11392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "avName":"Shelby Pena"
+    "avName":"Shelby Pena",
+    "price":932
   },
   {
     "id": "60d7293a66b62508b45ee14f",
@@ -45,9 +49,10 @@
     "description": "At a time when John Sculley became the CEO of Apple, the company ventured into the consumer camera market. The QuickTake 100, released in 1994, was built by Kodak. This was a time when digital cameras were still in the infancy and $700 was a lot of money to pay for Apple’s QuickTake.\n\nThe QuickTake wasn’t a commercial success per se, it did pioneer the digital camera market. It had a binocular-like design and captured images at 640×480 and could snap eight photographs. The QuickTake was essentially a 0.3MP camera. A total of three models were released before Steve Jobs discontinued the QuickTake lineup after taking the charge of Apple in 1997.\n",
     "name": "Laced in Luxury",
     "imageName": "Apple QuickTake",
-    "img": "../src/assest/image/shoes5.png",
+    "img": "https://rukminim1.flixcart.com/image/800/960/kxdl3m80/shoe/p/7/i/6-brd-629-6-birde-blue-original-imag9udwjcftyyge.jpeg?q=50",
     "avatar":"https://images.pexels.com/photos/111738/pexels-photo-111738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "avName": "Aidyn Torres"
+    "avName": "Aidyn Torres",
+    "price":283
   },
   {
     "id": "60d729bb66b62508b45ee150",
@@ -55,9 +60,10 @@
     "description": "If you thought the $5000 Mac Pro is expensive, think again. On March 20, 1997, Apple released the 20th Anniversary Macintosh, or TAM for $7,499. The limited-edition computer showed Apple’s design prowess and the ability to sell a $7,499 all-in-one PC to consumers in the late 1990s. It was designed by a young Jony Ive. The TAM wasn’t another AIO.\n\n\nThe Mac was pitched as a complete home entertainment solution with a 12.1-inch LCD screen, a custom Bose stereo speaker, leather palm rests on the keyboard, a built-in TV / FM tuner and remote, and a CD-ROM drive. The machine was constructed with gold-colored plastic, fabric, and Italian leather. Only 12,000 units of TAMs were made. The device was so exclusive that a person in a tuxedo would come and set up the Mac at customer’s homes. If you are interested in the 20th Anniversary Macintosh, you can still buy used ones on eBay for upwards of $2000.\n",
     "name": "Fashion Feet",
     "imageName": "20th Anniversary Mac",
-    "img": "../src/assest/image/shoes6.png",
+    "img": "https://rukminim1.flixcart.com/image/800/960/kyxb9u80/shoe/7/j/l/8-9394-world-wear-footwear-maroon-original-imagbfx3z8gdfz9e.jpeg?q=50",
     "avatar":"https://images.pexels.com/photos/41539/attractive-beautiful-brunette-cute-41539.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "avName":"Lesly Kerr"
+    "avName":"Lesly Kerr",
+    "price":544
   },
   {
     "id": "60d738af0798000022d7102c",
@@ -65,9 +71,10 @@
     "description": "Imagine a Macintosh that doubles as a TV. Well, in 1993, Apple did launch such a product that could be used as both a computer and cable-ready television. The Macintosh TV essentially used a 14-inch Sony Trinitron CRT display and the included card-sized remote could be used to control it. The Mac resembled a Macintosh LC 500 series, but it was fitted with a TV tuner that converted into a fully-backed TV set.\n\nA device that combines a Macintosh computer, a cable-ready TV set, and the ability to play CDs through the stereo system was unheard of at that time. One big issue with the Macintosh TV was that it was too expensive. Arguably, the biggest disappointment of the Macintosh TV was that you could not watch TV and use the Mac at the same time. The all-back coloured Macintosh was only released in the US. Apple only manufactured 10,000 units of the Macintosh TV before killing the machine four months after its launch.\n",
     "name": "Strong Footing",
     "imageName": "Macintosh TV",
-    "img": "../src/assest/image/shoes7.png",
+    "img": "https://rukminim1.flixcart.com/image/800/960/kv1a4cw0/shoe/q/h/j/9-brd-616-9-birde-blue-orange-original-imag8yzsufagagby.jpeg?q=50",
     "avatar":"https://images.pexels.com/photos/6110/man-holiday-people-face.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "avName":"Conrad Hawkins"
+    "avName":"Conrad Hawkins",
+    "price": 473
   },
   {
     "id": "60d763270798000022d7102d",
@@ -75,9 +82,10 @@
     "description": "Twenty years ago, Apple introduced the revolutionary PowerMac G4, a computer that came in a tiny eight-inch cube. Rather than sticking to a traditional tower design, Jony Ive thought of creating a computer that was an eight-inch cube suspended in a thick, translucent base. The design was to give the impression that the machine was floating in the air. The G4 Cube was fanless, making it extremely quiet.\n\nThe machine was an experiment of sorts of creating a computer for those who want the goodness of an iMac but don’t need all the power of the G4 Tower. The lack of expandability and low-end specifications miffed many power users. In July 2001, even before the device completed a year, Apple discontinued the G4 Cube. The $1800 might not be the massive success Apple had originally anticipated, the G4 Cube remains the company’s best-looking Mac ever created. The New York Museum of Modern Art has a G4 Cube as part of its collection.\n",
     "name": "Sporty Shoes",
     "imageName": "PowerMac G4 Cube",
-    "img": "../src/assest/image/shoes8.png",
+    "img": "https://rukminim1.flixcart.com/image/800/960/kzpw2vk0/shoe/j/d/6/10-art12blue-falco-blue-original-imagbncyuhvj6npx.jpeg?q=50",
     "avatar":"https://images.pexels.com/photos/59576/pexels-photo-59576.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "avName":"Jalen Taylor"
+    "avName":"Jalen Taylor",
+    "price":699
   }
  
 ]
